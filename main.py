@@ -1,2 +1,2 @@
 print("welcome oscar")
-print("add:" 10+7)
+print ("add:",10+7)
